@@ -1,0 +1,5 @@
+This is a boilerplate setup for running bottle apps.
+Includes:
+DB Connection via SQLAlchemy
+Session via beaker-session
+Logging via bottle_log
